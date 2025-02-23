@@ -1,0 +1,7 @@
+Floor Unit,Crane No.,T Port No.,D Position Fork To T Port Distance Front Left,D Position Fork To T Port Distance Rear Left,D Position Fork To T Port Distance Front Right,D Position Fork To T Port Distance Rear Right,U Position Fork To T Port Distance Front Left,U Position Fork To T Port Distance Rear Left,U Position Fork To T Port Distance Front Right,U Position Fork To T Port Distance Rear Right,Fork Center To T Port Center Distance,Crane Move Center To T Port Distance
+East GF,21,0214,38,31,36,29,99,101,99,106,4,2
+East GF,22,0224,28,35,30,36,105,101,105,106,1,-2
+East GF,23,0234,33,34,34,34,99,103,99,99,2,2
+East GF,27,0274,28,29,25,25,102,100,101,107,1,2
+East GF,28,0284,36,33,44,44,94,102,84,88,1,-4
+East GF,29,0294,38,30,35,34,97,102,97,102,-1,3
