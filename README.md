@@ -78,7 +78,7 @@ This project analyzes **T(Transport)-Port alignment and crane positioning** to i
 ### **1️⃣ Clone Repository**  
 ```sh
 git clone https://github.com/Jung028/T-Port-Predictive-Maintenance.git
-cd T-Port-Predictive-Maintenance
+cd Ti_To_Analysis
 ```
 
 ### **2️⃣ Install Dependencies**  
@@ -88,12 +88,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ### **3️⃣ Run Analysis**  
 ```sh
-python analyze_tport.py
-```
-
-### **4️⃣ Export Results**  
-```sh
-python export_results.py
+jupyter lab TI_TO.ipynb
 ```
 
 ---
