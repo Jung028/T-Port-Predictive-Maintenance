@@ -78,6 +78,7 @@ This project analyzes **T(Transport)-Port alignment and crane positioning** to i
 ### **1️⃣ Clone Repository**  
 ```sh
 git clone https://github.com/Jung028/T-Port-Predictive-Maintenance.git
+cd T-Port-Predictive-Maintenance
 cd Ti_To_Analysis
 ```
 
