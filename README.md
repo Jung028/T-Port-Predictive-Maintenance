@@ -1,7 +1,7 @@
 # **T-Port Predictive Maintenance 🚀**  
 
 ## **Overview**  
-This project analyzes **T-Port alignment and crane positioning** to identify **misalignment issues** and ensure accurate **pallet placement** in an **Automated Guided Vehicle (AGV) & Stacker Crane** system.  
+This project analyzes **T(Transport)-Port alignment and crane positioning** to identify **misalignment issues** and ensure accurate **pallet placement** in an **Automated Guided Vehicle (AGV) & Stacker Crane** system.  
 
 ## **Objectives**  
 - **Detect misalignment** between the AGV QR code, T-Port, and crane fork positions.  
