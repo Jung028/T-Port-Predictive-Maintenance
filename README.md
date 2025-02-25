@@ -9,6 +9,9 @@ This project analyzes **T(Transport)-Port alignment and crane positioning** to i
 - **Visualize and analyze deviations** using statistical methods and data visualization.  
 - **Recommend necessary adjustments** (either crane tuning or T-Port modifications).  
 
+**Explaination**
+- **U and D Positions** are measured to ensure the fork and T-Ports height are within the acceptable range of 25-40mm for D, and 95-105mm for U, to ensure that the fork doesnt hit the T-Port or Pallet during extension / retraction.
+
 ---
 
 ## **Data Analysis Steps**  
