@@ -1,5 +1,7 @@
 # **T-Port Predictive Maintenance 🚀**  
 
+![image](https://github.com/user-attachments/assets/f2d68dde-771f-453f-aac2-d3838027fe57)
+
 ## **Overview**  
 This project analyzes **T(Transport)-Port alignment and crane positioning** to identify **misalignment issues** and ensure accurate **pallet placement** in an **Automated Guided Vehicle (AGV) & Stacker Crane** system.  
 
@@ -13,6 +15,9 @@ This project analyzes **T(Transport)-Port alignment and crane positioning** to i
 - **U and D Positions** are measured to ensure the fork and T-Ports height are within the acceptable range of 25-40mm for D, and 95-105mm for U, to ensure that the fork doesnt hit the T-Port or Pallet during extension / retraction.
 
 ---
+
+![image](https://github.com/user-attachments/assets/e1f599e1-cff7-463c-ab55-72e3e924b6b7)
+
 
 ## **Data Analysis Steps**  
 
