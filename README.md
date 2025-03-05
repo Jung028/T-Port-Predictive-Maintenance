@@ -93,6 +93,7 @@ cd Ti_To_Analysis
 ### **2️⃣ Install Dependencies**  
 ```sh
 pip install pandas numpy matplotlib seaborn scikit-learn
+pip install jupyterlab
 ```
 
 ### **3️⃣ Run Analysis**  
@@ -102,9 +103,17 @@ jupyter lab TI_TO.ipynb
 
 ---
 
+## **Next Steps**  
+
+  
+1. Create a dashboard to show analysis of all the cranes and T-Port alignment
+2. Update the newly collected data for Level 1A and 2A
+
+
+---
+
 ## **Acknowledgments**  
 
-### ✅ **Actions Taken**  
 Special thanks to the Logiflow Team at ALPM who contributed to the data collection of the T-Ports and Stacker Cranes! 🚀
 
 ---
