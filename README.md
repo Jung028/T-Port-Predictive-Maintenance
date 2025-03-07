@@ -14,6 +14,13 @@ This project analyzes **T(Transport)-Port alignment and crane positioning** to i
 **Explaination**
 - **U and D Positions** are measured to ensure the fork and T-Ports height are within the acceptable range of 25-40mm for D, and 95-105mm for U, to ensure that the fork doesnt hit the T-Port or Pallet during extension / retraction.
 
+**Methodology**
+- **Measurement of T-port and Fork Data** are measured through manual operation of crane position at T-Port, then extension of fork. Then changed to auto operation for simulating actual movemnet protocol. Operation steps are as below:
+1. **TO - Retrive** - Enter values (level-crane-port number), e.g. Crane 34 at level 2, Out Port, Select Retrive, then enter (2342)
+2. **TI - Store**  - Enter values (level-crane-port number), e.g. Crane 34 at level 2, In Port, Select Store, then enter (2341)
+
+- **1 (I Port Home), 2 (O Port Home), 3 (O Port Opposite Home), 4 (I Port Opposite Home)**
+
 ---
 
 ![image](https://github.com/user-attachments/assets/f2d68dde-771f-453f-aac2-d3838027fe57)
